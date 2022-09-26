@@ -52,10 +52,10 @@ function App() {
               <div className="card-body">
                 <table className="table">
                   <tr>
-                    <th>Th</th>
-                    <th>Th</th>
-                    <th>Th</th>
-                    <th>Th</th>
+                    <th>id</th>
+                    <th>Name</th>
+                    <th>Class</th>
+                    <th>Value</th>
                     <th>Edit</th>
                     <th>Delete</th>
                   </tr>
